@@ -7,7 +7,7 @@ Result
  * [Robust Deep Autoencoder:](http://nbviewer.jupyter.org/github/longhorn_ai/blob/master/Daniel_Legorreta/Examples_and_Tests-Autoencoder.ipynb)
  
  
- * [Robust PCA](http://nbviewer.jupyter.org/github//Examples_and_Tests-rPCA.ipynb)
+ * [Robust PCA](http://nbviewer.jupyter.org/github/longhorn_ai/blob/master/Daniel_Legorreta/Examples_and_Tests-rPCA.ipynb)
 
 
 You can find the code in [RAD version Python](https://github.com/dlegor/RAD_Version_Python)
