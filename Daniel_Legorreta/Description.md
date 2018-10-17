@@ -5,8 +5,7 @@ Implementation of Robust PCA and Robust Deep Autoencoder over Time Series for de
 Result
 ==================
  * [Robust Deep Autoencoder:](http://nbviewer.jupyter.org/github/longhorn_ai/blob/master/Daniel_Legorreta/Examples_and_Tests-Autoencoder.ipynb)
- 
- 
+  
  * [Robust PCA](http://nbviewer.jupyter.org/github/longhorn_ai/blob/master/Daniel_Legorreta/Examples_and_Tests-rPCA.ipynb)
 
 
